@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é @joaobosco09
+- meu email de contato é estudante.joaobosco09@gmail.com.br
+- 👀 Estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch
